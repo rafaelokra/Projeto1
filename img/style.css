@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    height: 790px;
+    width: 1024px;
+    left: -646px;
+    top: -375px;
+    border-radius: 0px;
+    margin: auto;
+}
+div ,p{
+    margin: auto;
+    text-align: center;
+    font-size: 15px;
+    line-height: 22px;
+    font-family: open sans-serif;
+  
+   
+}
+h1{
+    font-family: dosis;
+}
+span{
+    color: 
+    #EE24FF;
+}
+footer{
+
+  
+}
