@@ -1,29 +1,52 @@
-body{
-    text-align: center;
-    height: 790px;
-    width: 1024px;
-    left: -646px;
-    top: -375px;
-    border-radius: 0px;
-    margin: auto;
+body{ 
+
+text-align: center;
+position: relative;
+width: 1024px;
+height:790x;
+margin: auto auto 100px ;
+}
+div{
+   
+    width: 626px;
+    height: 486px;
+    left: 199px;
+    top: 64px;
+    
+}
+div,img{
+    top: 50px;
+    
 }
 div ,p{
-    margin: auto;
     text-align: center;
-    font-size: 15px;
+    width: 500px;
+    height: 107px;
+    margin: auto;
+   font-size: 15px;
+   font-weight: 400;
     line-height: 22px;
     font-family: open sans-serif;
-  
-   
+    color: #828282;
+  top: auto;
 }
 h1{
-    font-family: dosis;
+   
 }
 span{
     color: 
     #EE24FF;
 }
-footer{
-
-  
+ footer{
+    position: absolute;
+    border: 1px solid red;
+     text-align: center;
+     width: 1024px;
+     height: 172px;
+     left: 0px;
+     top: 550px;
+    
+}
+strong{
+    color: #3F3D56;
 }
